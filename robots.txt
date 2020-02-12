@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmaezoku.0xfree.top/sitemap.xml
